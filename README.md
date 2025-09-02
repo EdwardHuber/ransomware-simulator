@@ -2,7 +2,7 @@
 ---
 
 ### 8. Ransomware Simulator
-
+Simulated ransomware demo (no encryption, reversible file renaming).
 ```markdown
 # 🧨 Ransomware Simulator (Safe Demo)
 
